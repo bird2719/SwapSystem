@@ -1,0 +1,10 @@
+name: SwapSystem
+author: bird2719
+main: bird2719\SwapSystem\Main
+load: POSTWORLD
+version: 1.0.0
+api: 3.0.0
+commands:
+ swap:
+  description: プレイヤー間で物々交換を行うための補助ツール
+  usage: "/swap"
